@@ -15,4 +15,6 @@ abstract interface class IAssetApiRepository {
   // Future<void> delete(String id);
 
   Future<List<Asset>> search({List<String> personIds = const []});
+
+  Future<String?> getAssetMIMEType(String id);
 }
