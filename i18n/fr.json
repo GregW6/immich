@@ -1217,8 +1217,6 @@
   "memories_setting_description": "Gérer ce que vous voyez dans vos souvenirs",
   "memories_start_over": "Recommencer",
   "memories_swipe_to_close": "Balayez vers le haut pour fermer",
-  "memories_year_ago": "Il y a un an",
-  "memories_years_ago": "Il y a {years, plural, other {# ans}}",
   "memory": "Souvenir",
   "memory_lane_title": "Fil de souvenirs {title}",
   "menu": "Menu",
